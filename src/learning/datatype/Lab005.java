@@ -3,7 +3,7 @@ package learning.datatype;
 public class Lab005 {
     public static void main(String[] args) {
         // how to write data type with variables.
-        // datatype variable_name= variable name (literal);
+        // datatype variable_name ( variable name also called as Reference name]= variable name (literal); --[ literal means- value]
         //Data type--> two types of data types.
         //1-Primitive data types
         // integral-byte/short/int/long(l)
