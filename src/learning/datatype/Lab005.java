@@ -38,7 +38,9 @@ public class Lab005 {
 
         //2-Non- primitive data types.
         //String -collection of number or a bunch of character
+        // *All the Non-primitive data - with take 8 Bytes and 64 bites.*
         String New_String="Sanjeev Tiwari";
         System.out.println(New_String);
+        //2- Enum.
     }
 }
