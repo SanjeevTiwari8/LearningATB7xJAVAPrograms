@@ -1,4 +1,4 @@
-package ex_2108;
+package learning_basic_2024;
 
 public class Lab003 {
     public static void main(String[] args) {
