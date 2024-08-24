@@ -15,6 +15,7 @@ public class Lab008 {
         System.out.println(IntA+IntB+S1);
         System.out.println(IntA+S1+IntB);
         System.out.println(S1+IntA+IntB);
+        System.out.println(IntA+IntB+S1+IntA+S1+IntB+IntB);
         // concatenation move from left to right, and if first place its get the string, it will assume every thing string now,so in the last print result would be like this ( sanjeev1020, not sanjeev30)
     }
 }
