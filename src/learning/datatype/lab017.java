@@ -10,7 +10,7 @@ public class lab017 {
         boolean IsEarning = true;
         float MoneyBlanceRs = 9999985899999956f;
         double TestNumber= 4570235.2352;
-        System.out.println(Name+'\t'+ LicenceNumber+'\t' + Number);
+        System.out.println(Name+'\t'+ LicenceNumber+'\t' + Number+'\t'+Age +'\t'+IsEarning+'\t'+MoneyBlanceRs+'\t'+TestNumber);
 
 
     }
