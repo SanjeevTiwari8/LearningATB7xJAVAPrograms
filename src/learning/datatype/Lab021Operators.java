@@ -1,6 +1,6 @@
 package learning.datatype;
 
-public class lab021 {
+public class Lab021Operators {
     public static void main(String[] args) {
         // ✅ Operators
     int age = 65; // 10000001 -> switch of / on
