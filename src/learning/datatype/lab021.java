@@ -8,7 +8,7 @@ public class lab021 {
 
     // Arithmetic Operator +,-,/,*,
     // %
-    int a = 10;
+    int a = 100;
     int b = 23;
         System.out.println(a+b);
         System.out.println(a-b);
@@ -16,7 +16,8 @@ public class lab021 {
         System.out.println(a/b);
 
     // %
-        System.out.println(a%b); // Remainders
+        System.out.println(a%b);
+        System.out.println("Support"+'\t'+" :"+age);// Remainders
 
 }
 }
