@@ -19,3 +19,4 @@ public class lab021 {
         System.out.println(a%b); // Remainders
 
 }
+}
