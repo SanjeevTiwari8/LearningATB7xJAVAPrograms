@@ -13,7 +13,7 @@ public class CalculatorForOther {
         System.out.println("Provide second number");
         Double secondNumber = newInput.nextDouble();
 
-        Double multipleResult=firstNumber*secondNumber;
+        Double multipleResult= firstNumber*secondNumber;
         System.out.println("Result of multi:"+ multipleResult);
 
         Double divResult=(firstNumber/secondNumber)*100;
