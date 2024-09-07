@@ -12,8 +12,10 @@ public class Lab026PreAndPostIncrement {
         int b= ++a;// here first it will increase the value of a = 50 to 51, because it is pre increament.
         // after incrementing a, it will increase the vale of b=51, so expect result must be - a=51, b=51.
         System.out.println(a);
+        System.out.println(++a + a++ + a++);
         System.out.println(b);
         System.out.println(++a);
+        System.out.println(a++ + ++a);
         System.out.println(++a+b); // so here what happened it actually pick the value of a=52 due to increment then again incremented to a=53 and added into b.
         System.out.println(a);
         System.out.println(b);
