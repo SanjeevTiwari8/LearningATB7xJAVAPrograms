@@ -9,7 +9,7 @@ public class Lab044GradeChar {
 
 
         int firstGradeNumber= scannerValue.nextInt();
-        char Grade='F';
+        char Grade;
 
         if (firstGradeNumber>=90 && firstGradeNumber<=100)
         {
@@ -28,8 +28,9 @@ public class Lab044GradeChar {
             Grade='F';
 
         }else {
-            Grade='N';
+          // Grade='N';
             System.out.println("Please enter the Marks value between 0-100 to calculate Grade, Note--> 'N'= Score is not clear");
+            return;
         }
         System.out.println("Your Grade Score Is: "+ Grade);
     }
